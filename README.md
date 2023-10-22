@@ -1,6 +1,8 @@
 # learn-mongodb
 《【编程不良人】MongoDB最新实战教程》视频学习
 
+《MongoDB权威指南》书籍学习
+
 [视频链接](https://www.bilibili.com/video/BV1vL4y1J7i3)
 
 [第一章 安装](a-install/README.md)
